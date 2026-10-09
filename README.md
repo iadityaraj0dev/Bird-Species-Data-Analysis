@@ -76,22 +76,7 @@ Create clear charts and dashboard views to explore species counts, habitat compa
 
 These are analysis questions, not confirmed findings. Conclusions should be added after examining the dataset.
 
-## Repository Structure
 
-```text
-bird-species-observation-analysis/
-├── data/
-│   └── README.md              # Dataset source and access instructions
-├── notebooks/
-│   └── bird_observation_eda.ipynb
-├── sql/
-│   └── analysis_queries.sql
-├── dashboard/
-│   └── README.md              # Dashboard instructions or assets
-├── reports/
-│   └── README.md              # Final report and findings
-├── requirements.txt
-└── README.md 
 
 ## Key Deliverables
 
