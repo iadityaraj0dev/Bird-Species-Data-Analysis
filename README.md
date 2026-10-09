@@ -100,4 +100,3 @@ These are analysis questions, not confirmed findings. Conclusions should be adde
 
 Aditya Raj
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
